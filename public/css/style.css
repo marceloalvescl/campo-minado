@@ -1,0 +1,48 @@
+.posicao{
+	height: 50px; 
+	width: 60px;
+	background-color: #AEAEAE; 
+	border: none;
+	margin: 0px;
+}
+
+#gameStatus{
+	margin-left: 39%;
+	padding: auto;
+	margin-left: 5%; 
+	background-color: #8FBF8F;
+	height: 50px; 
+	width: 200px;
+}
+
+#numberOfBombs{
+	width: 20px;
+}
+
+body{
+	background-image: url('../images/backgroundImage.jpg');
+	background-size: 100%;
+	background-position: 0px 0px;
+}
+
+#jogo{
+	position: absolute;
+	top: 30px;
+	left: 32%;
+	width: 36%;
+	min-width: 500px;
+	margin-bottom: 40px;
+}
+
+#placeBomb{
+
+}
+
+#options{
+	position: absolute;
+	top: 30px;
+	padding-top:10%;
+	width: 22.5%;
+	left: 50px;
+
+}
